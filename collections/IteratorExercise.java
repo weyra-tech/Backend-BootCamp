@@ -1,12 +1,15 @@
+/*
 package collections;
 
 import java.util.ArrayList;
 import java.util.Collection;
 
+*/
 /*
 Write code that calls the getFruits method and then iterates over the collection,
  printing each element to console
- */
+ *//*
+
 
 public class IteratorExercise {
     FruitSupplier fruitSupplier= new FruitSupplier();
@@ -28,4 +31,4 @@ class FruitSupplier {
 
 
 
-}
+}*/
