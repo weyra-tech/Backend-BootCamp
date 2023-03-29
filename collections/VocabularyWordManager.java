@@ -43,7 +43,6 @@ public class VocabularyWordManager {
                         "fig",
                         "grape",
                         "honey"));
-
         System.out.println("First word: " + vocab.getFirstWord());
         System.out.println("Last word: " + vocab.getLastWord());
 
